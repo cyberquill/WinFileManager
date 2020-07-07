@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1538511635 source:d:\repository\c++ programs\file management system\users.cpp
+	"header.h"
+
+1538511658 source:d:\repository\c++ programs\file management system\files.cpp
+	"header.h"
+
+1538511333 d:\repository\c++ programs\file management system\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<fstream>
+	<string>
+	<vector>
+
+1538496293 source:d:\repository\c++ programs\file management system\folders.cpp
+	"header.h"
+
+1538511538 source:d:\repository\c++ programs\file management system\main.cpp
+	"header.h"
+
+1538572512 source:d:\repository\c++ programs\os project\file management system\files.cpp
+	"header.h"
+
+1538581973 d:\repository\c++ programs\os project\file management system\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<fstream>
+	<string>
+	<vector>
+
+1538580956 source:d:\repository\c++ programs\os project\file management system\folders.cpp
+	"header.h"
+
+1538812193 source:d:\repository\c++ programs\os project\file management system\main.cpp
+	"header.h"
+
+1540453736 source:d:\repository\c++ programs\os project\file management system\users.cpp
+	"header.h"
+
+1538572512 source:c:\users\17bce2399\desktop\file management system\files.cpp
+	"header.h"
+
+1538572016 c:\users\17bce2399\desktop\file management system\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<fstream>
+	<string>
+	<vector>
+
+1538496292 source:c:\users\17bce2399\desktop\file management system\folders.cpp
+	"header.h"
+
+1538572161 source:c:\users\17bce2399\desktop\file management system\users.cpp
+	"header.h"
+
+1538572842 source:c:\users\17bce2399\desktop\file management system\main.cpp
+	"header.h"
+
+1538572512 source:c:\users\pc\desktop\file management system\files.cpp
+	"header.h"
+
+1538581973 c:\users\pc\desktop\file management system\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<fstream>
+	<string>
+	<vector>
+
+1538580956 source:c:\users\pc\desktop\file management system\folders.cpp
+	"header.h"
+
+1538582067 source:c:\users\pc\desktop\file management system\main.cpp
+	"header.h"
+
+1538581965 source:c:\users\pc\desktop\file management system\users.cpp
+	"header.h"
+
