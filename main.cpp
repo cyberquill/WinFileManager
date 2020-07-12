@@ -5,11 +5,11 @@
 User U;
 vector <User> Log;
 int p[3],U_Type=-1;
-string CMD,ROOT="C:\\Users\\pc\\Desktop\\FMS_Root",PATH=ROOT;
+string CMD, ROOT="%USERPROFILE%\\Desktop\\FMS_Root", PATH=ROOT;
 
 string Date_Time()
 {
-    struct tm *tmp ;
+    struct tm *tmp;
     char MY_TIME[50];
     time_t t = time(0);
 
