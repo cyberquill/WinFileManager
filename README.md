@@ -16,7 +16,7 @@ ___
 
 > It should be noted that the application creates a new folder labelled **`FMS_Root`**, and runs with this as the root directory. All commands are expected to be relative to this directory.
 
->It should also be noted that the application runs in the global scope of the machine, thus it will not effect the files present outside the *root*, until **EXPLICITLY** told to do so. Thus, user desgretion is advised.
+>It should also be noted that the application runs in the global scope of the machine, thus it will not effect the files present outside the *root*, until **EXPLICITLY** told to do so. Thus, user discretion is advised.
 
 &emsp;
 ___
